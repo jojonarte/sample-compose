@@ -1,0 +1,6 @@
+[submodule "client-service"]
+	path = client-service
+	url = https://github.com/jojonarte/sample-client-service.git
+[submodule "api-service"]
+	path = api-service
+	url = https://github.com/jojonarte/sample-api-service.git
